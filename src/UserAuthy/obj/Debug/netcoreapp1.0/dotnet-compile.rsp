@@ -1,5 +1,5 @@
---temp-output:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\obj\Debug\netcoreapp1.0\
---out:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\bin\Debug\netcoreapp1.0\UserAuthy.dll
+--temp-output:c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\obj\Debug\netcoreapp1.0\
+--out:c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\bin\Debug\netcoreapp1.0\UserAuthy.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -199,11 +199,14 @@
 --reference:C:\Users\epicodus\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\epicodus\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\obj\Debug\netcoreapp1.0\UserAuthydotnet-compile.deps.json",UserAuthy.deps.json
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\Program.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\Startup.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\Migrations\20170810162000_Initial.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\Migrations\20170810162000_Initial.Designer.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\Migrations\ApplicationDbContextModelSnapshot.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\Models\ApplicationDbContext.cs
-C:\Users\epicodus\Documents\Visual Studio 2015\Projects\UserAuthy\src\UserAuthy\Models\ApplicationUser.cs
+--resource:"c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\obj\Debug\netcoreapp1.0\UserAuthydotnet-compile.deps.json",UserAuthy.deps.json
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Program.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Startup.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Contollers\AccountController.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Migrations\20170810162000_Initial.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Migrations\20170810162000_Initial.Designer.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Migrations\ApplicationDbContextModelSnapshot.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Models\ApplicationDbContext.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\Models\ApplicationUser.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\ViewModels\LoginViewModel.cs
+c:\users\epicodus\documents\visual studio 2015\Projects\UserAuthy\src\UserAuthy\ViewModels\RegisterViewModel.cs
